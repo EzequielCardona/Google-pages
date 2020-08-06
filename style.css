@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #222;
+  margin-left: 0;
+  margin-right: 0;
+}
+/* Sections */
+.A {
+  position: static;
+  font-size: 13px;
+  padding-right: 30px;
+  float: right;
+  text-align: right;
+  }
+  .A .first {
+    display: inline-block;
+  }
+  .A .second {
+    display: inline-block;
+  }
+  .A .third {
+    display: inline-block;
+  }
+.B {
+  width: 100%;
+  position: static;
+  display: inline-block;
+}
+/* For images */
+.a {
+  width: 25px;
+  height: 25px;
+}
+.b {
+  width: 400px;
+  height: 600px;
+}
